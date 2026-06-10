@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "YourName",
+    "Name": "ShoutRunner",
+    "InternalName": "ShoutRunner",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Automated world-hop shout scheduler with client profiles, message versioning, and detailed run logs.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "RepoUrl": "https://github.com/PersephoneAsphodel/shoutrunner-releases",
+    "DownloadLinkInstall": "https://github.com/PersephoneAsphodel/shoutrunner-releases/releases/latest/download/ShoutRunner.zip",
+    "DownloadLinkUpdate": "https://github.com/PersephoneAsphodel/shoutrunner-releases/releases/latest/download/ShoutRunner.zip",
+    "DownloadLinkTesting": "https://github.com/PersephoneAsphodel/shoutrunner-releases/releases/latest/download/ShoutRunner.zip",
+    "IconUrl": "https://raw.githubusercontent.com/PersephoneAsphodel/shoutrunner-releases/main/icon.png",
+    "Tags": ["shout", "worldhop", "automation"],
+    "CategoryTags": ["Utility"]
+  }
+]
