@@ -3,7 +3,7 @@
     "Author": "PersephoneAsphodel",
     "Name": "ShoutRunner",
     "InternalName": "ShoutRunner",
-    "AssemblyVersion": "1.0.48.0",
+    "AssemblyVersion": "1.0.54.0",
     "Description": "Automated world-hop shout scheduler with client profiles, message versioning, and detailed run logs.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
